@@ -94,6 +94,7 @@ fn main() {
     print_my_name();
 
     println!("Hello world");
+    println!("HIIII");
 }
 
 fn print_my_name(){
