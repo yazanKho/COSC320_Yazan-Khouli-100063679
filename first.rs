@@ -92,6 +92,8 @@ fn main() {
     println!("The value of the element at index {index} is: {element}");
 
     print_my_name();
+
+    println!("Hello world");
 }
 
 fn print_my_name(){
