@@ -95,6 +95,8 @@ fn main() {
 
     println!("Hello world");
     println!("HIIII");
+    let n = 90;
+    println!(90+4);
 }
 
 fn print_my_name(){
