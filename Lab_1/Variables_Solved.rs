@@ -1,4 +1,4 @@
-// Variables excercises solved          Yazan Khouli        100063679 
+// Variables excercises solved          Yazan Khouli        100063679
 fn main() {
     /*                  EXERCISE 1              */ 
     // TODO: Add the missing keyword.
